@@ -27,5 +27,37 @@ Smart Contract Exploitation · On-chain Forensics
 ## 📌 Featured Work
 - 🔗 web3-security
 - 🌐 network-security
-- 🧪 zk-age-verification
+- 🧪 zk-verification
+
+## ⭐ Selected Projects
+
+### 📖 Web3 Security Guidebook
+**Practical Web3 security guide based on real-world vulnerabilities**
+
+스마트 컨트랙트 보안을 학습하며 제작한 **Web3 보안 가이드북**입니다.  
+Ethernaut 문제와 실제 취약 사례를 기반으로  
+**취약점 원인 → 공격 시나리오 → 보안 관점** 흐름으로 정리했습니다.
+
+단순 문서가 아니라,  
+**공격자 관점에서 사고하는 방식**을 전달하는 데 목적이 있습니다.
+
+👉 Guidebook  
+📘 https://whs3-doge5k.gitbook.io/smartcontract-security-docs  
+🔐 https://whs3-doge5k.gitbook.io/smartcontract-security-docs/ethernaut/0.-hello-ether
+
+### 🔍 Suspicious Transaction Tracer (Trace-X)
+**On-chain risk-oriented transaction tracing system**
+
+블록체인 상의 **위험 의심 거래 흐름**를 추적하기 위해 설계·구현한 프로젝트입니다.  
+단일 트랜잭션이 아닌, **다중 hop 자금 이동(Fund Flow)**을 기준으로 거래를 재구성하고  
+브리지 이동, 반복 전송, 믹서 연계 등 **위험 패턴 중심의 분석**에 초점을 두었습니다.
+
+- Transaction graph 기반 흐름 추적
+- Cross-chain / multi-hop fund flow 분석
+- Risk scoring 관점의 데이터 정규화
+
+👉 Repository / Demo  
+🔗 https://github.com/paran-needless-to-say/100end
+---
+
 
