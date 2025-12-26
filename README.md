@@ -95,4 +95,14 @@ Ethernaut 문제와 실제 취약 사례를 기반으로
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
+## 📫 Contact
+<p align="center">
+  <a href="mailto:gic012444@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gic012444@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hosung4212">
+    <img src="https://img.shields.io/badge/GitHub-hosung4212-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 
