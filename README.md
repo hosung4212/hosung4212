@@ -29,7 +29,7 @@ Smart Contract Exploitation · On-chain Forensics
 - 🌐 network-security
 - 🧪 zk-verification
 
-## ⭐ Selected Projects
+## Selected Projects
 
 ### 📖 Web3 Security Guidebook
 **Practical Web3 security guide based on real-world vulnerabilities**
