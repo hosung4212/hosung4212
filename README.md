@@ -60,5 +60,38 @@ Ethernaut 문제와 실제 취약 사례를 기반으로
 🔗 https://github.com/paran-needless-to-say/100end
 
 ---
+<!-- Languages -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+</p>
+
+<!-- Web3 / Blockchain -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=forgejo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.py-2E2E2E?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<!-- ZKP -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Zero--Knowledge%20Proofs-6F2DBD?style=for-the-badge&logo=proton&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cairo%20(StarkNet)-5C2D91?style=for-the-badge&logo=starknet&logoColor=white" />
+</p>
+
+<!-- Network / System Security -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<!-- Tools / Docs -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
 
 
