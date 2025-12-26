@@ -60,6 +60,7 @@ Ethernaut 문제와 실제 취약 사례를 기반으로
 🔗 https://github.com/paran-needless-to-say/100end
 
 ---
+## 🧰 Tech Stack
 <!-- Languages -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
