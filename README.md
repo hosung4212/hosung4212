@@ -1,11 +1,18 @@
 <h2 align="center"> Hi! I'm Hosung Choi</h2>
-Network Security & Web3 Security  
+<p align="center">
+Focused on Network Security & Web3 Security  
 Smart Contract Exploitation · On-chain Forensics
+</p>
 
 ---
+<p align="center">
+<a href="https://whs3-doge5k.gitbook.io/smartcontract-security-docs">📖 Web3 Security guuid book</a> ·
+<a href="https://github.com/네아이디/web3-security">🔐 Web3 Security</a> 
+<a href="https://github.com/네아이디/network-security">🌐 Network Security</a> ·
+<a href="https://github.com/네아이디/zk-age-verification">🧪 ZKP </a>
+</p>
 
 ## 🧠 Focus
-- 
 - Network protocol security (TCP/IP, DNS, MITM)
 - Smart contract vulnerabilities & exploits
 - Web3 incident analysis & PoC development
