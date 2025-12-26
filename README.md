@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🔐 Hosung Choi
 
-<!--
-**hosung4212/hosung4212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network Security & Web3 Security  
+Smart Contract Exploitation · On-chain Forensics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Focus
+- Network protocol security (TCP/IP, DNS, MITM)
+- Smart contract vulnerabilities & exploits
+- Web3 incident analysis & PoC development
+- Zero-knowledge based verification systems
+
+## 🛠 Skills & Tools
+- Solidity, Python, C
+- Foundry, Hardhat
+- Wireshark, tcpdump
+- Slither, Mythril
+
+## 📌 Featured Work
+- 🔗 web3-security
+- 🌐 network-security
+- 🧪 zk-age-verification
+- 📊 onchain-forensics
+
