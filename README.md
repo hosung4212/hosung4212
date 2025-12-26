@@ -7,9 +7,10 @@ Smart Contract Exploitation · On-chain Forensics
 ---
 <p align="center">
 <a href="https://whs3-doge5k.gitbook.io/smartcontract-security-docs">📖 Web3 Security guuid book</a> ·
-<a href="https://github.com/네아이디/web3-security">🔐 Web3 Security</a> 
+<a href="https://github.com/네아이디/web3-security">🔐 Web3 Security</a> .
 <a href="https://github.com/네아이디/network-security">🌐 Network Security</a> ·
-<a href="https://github.com/네아이디/zk-age-verification">🧪 ZKP </a>
+<a href="https://github.com/hosung4212/zkpprac">🧪 ZKP </a> .
+<a href="https://github.com/네아이디/system-hacking">💻 System Hacking</a> .
 </p>
 
 ## 🧠 Focus
